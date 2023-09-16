@@ -24,6 +24,7 @@ class ColorsTableViewController: UIViewController {
         for _ in 0..<50 {
             colors.append(.random())
         }
+        
     }
     
     
